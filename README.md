@@ -1,4 +1,4 @@
-# GSN Foundation: Next.js redesign
+# GSN Foundation: 
 
 Next.js 14 (App Router) + TypeScript. Dark navy / violet / cyan design system, a lazy-loaded 3D hero (React Three Fiber), five AI course pages, and technical SEO.
 
