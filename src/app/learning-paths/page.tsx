@@ -13,11 +13,11 @@ export const metadata = buildMetadata({
 });
 
 const PATHS = [
-  { name: "Build AI applications", blurb: "For learners who want to create products with language models.", steps: ["prompt-engineering", "generative-ai", "llm-rag", "ai-engineering"] },
-  { name: "Become an ML engineer", blurb: "For learners who want to train, deploy and maintain predictive models.", steps: ["applied-ai-ml-engineering", "ai-engineering"] },
+  { name: "Build AI applications", blurb: "For learners who want to create products with language models.", steps: ["prompt-engineering", "generative-ai", "llm-rag"] },
+  { name: "Become an ML engineer", blurb: "For learners who want to train, deploy and maintain predictive models.", steps: ["applied-ai-ml-engineering"] },
   { name: "AI Foundations", blurb: "Start from basics and build a strong foundation in AI concepts.", steps: ["prompt-engineering", "generative-ai"] },
   { name: "RAG Specialist", blurb: "Deep dive into retrieval-augmented generation and document AI.", steps: ["generative-ai", "llm-rag"] },
-  { name: "Complete AI Engineer", blurb: "Comprehensive path covering all aspects of AI engineering.", steps: ["prompt-engineering", "generative-ai", "applied-ai-ml-engineering", "llm-rag", "ai-engineering"] },
+  { name: "Complete AI Engineer", blurb: "Comprehensive path covering all aspects of AI engineering.", steps: ["prompt-engineering", "generative-ai", "applied-ai-ml-engineering", "llm-rag"] },
 ];
 
 export default function Paths() {
